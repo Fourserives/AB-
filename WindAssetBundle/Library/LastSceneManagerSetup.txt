@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Demo/Test_Await_Async/Test_Await_Async.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
